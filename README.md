@@ -1,8 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
- 
+
 <body>
 
   <h1>Welcome to the Final Web Development Project for Ellia Alvord</h1>

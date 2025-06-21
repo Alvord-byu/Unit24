@@ -17,22 +17,22 @@
       </a>
     </li>
     <li>
-      <a href="https://github.com/Alvord-byu/Unit24/tree/Comic-Con" target="_blank">
+      <a href="Unit24-Comic-Con/index.html" target="_blank">
         My Scratch Page on Comic-Con
       </a>
     </li>
     <li>
-      <a href="https://github.com/Alvord-byu/Unit24/tree/YouTube-Video" target="_blank">
+      <a href="Unit24-YouTube-Video/index.html" target="_blank">
         YouTube Video
       </a>
     </li>
     <li>
-      <a href="https://github.com/Alvord-byu/Unit24/tree/Tableau" target="_blank">
+      <a href="Unit24-Tableau/index.html" target="_blank">
         Tableau Chart
       </a>
     </li>
     <li>
-      <a href="https://github.com/Alvord-byu/Unit24/tree/comiccon-gallery" target="_blank">
+      <a href="Unit24-comiccon-gallery/index.html" target="_blank">
         Comic-Con Guest Gallery
       </a>
     </li>

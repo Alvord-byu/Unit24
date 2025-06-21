@@ -12,7 +12,7 @@
       </a>
     </li>
     <li>
-      <a href="https://github.com/Alvord-byu/Unit24/tree/Resume-(Bootstrap)" target="_blank">
+      <a href="Unit24-Resume-Bootstrap-/index.html" target="_blank">
         My Resume with Bootstrap
       </a>
     </li>

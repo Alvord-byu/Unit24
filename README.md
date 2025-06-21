@@ -72,7 +72,9 @@
 
 [![Thousands of fans begin to arrive in Downtown San Diego](https://img.youtube.com/vi/1R2ZNu97vIk/0.jpg)](https://www.youtube.com/watch?v=1R2ZNu97vIk)
 
-  <p>Over the years, attendance at the San Diego Comic-Con has increased significantly. It is not hard to see why, as our popular culture, in movies, books, and on TV, has increasingly focused on comic book characters and stories. This amazing chart by Gursevak Ajay Singh Dhanda breaks down this popularity.</p>
+  <p>Over the years, attendance at the San Diego Comic-Con has increased significantly. It is not hard to see why, as our popular culture, in movies, books, and on TV, has increasingly focused on comic book characters and stories. This amazing chart by Gursevak Ajay Singh Dhanda breaks down this popularity.</p> <a href="https://public.tableau.com/app/profile/gursevak.ajay.singh.dhanda/viz/Risingpopularityofcomicbookmovies/Dashboard2" target="_blank">
+  View Tableau Dashboard: Rising Popularity of Comic Book Movies
+</a>
 
 </body>
 </html>

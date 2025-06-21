@@ -65,7 +65,7 @@
   2024
   ![Image](https://github.com/user-attachments/assets/6550cbfc-bd2b-4f0a-9fcc-a9e50bf71105)
 
-  <h2><id="section1">Comic-Con Culture</h2>
+  <h2 id="section1">Comic-Con Culture</h2>
 
   <p>Sometimes it brings in hundreds of thousands more than can even attend the conference and participate in what are called off-sites, which are typically free to go to and will give out free swag to visitors.</p>
 

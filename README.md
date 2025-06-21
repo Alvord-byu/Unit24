@@ -1,6 +1,7 @@
   <h1>Comic-Con Anniversary Reflection</h1>
 
   <p>This July will mark a very important anniversary for me. This marks my tenth consecutive year attending the San Diego Comic-Con. I feel fortunate to have been able to attend so many with my family. This event has not only been fun but also helped shape me to who I am today.</p>
+  <p><a href="Comic-Con Culture">Below you can find out more about Comic-Con culture</a></p>
 
   <h2>Favorite Comic-Con Experiences</h2>
 

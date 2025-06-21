@@ -7,7 +7,7 @@
   <h2>Here is the menu for my project:</h2>
   <ul>
     <li>
-      <a href="https://github.com/Alvord-byu/Unit24/tree/Resume" target="_blank">
+      <a href="Unit24-Resume/README.md" target="_blank">
         My Resume
       </a>
     </li>

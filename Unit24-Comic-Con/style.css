@@ -1,0 +1,16 @@
+img {
+  width: 100%;
+  max-width: 500px;
+  height: auto;
+  display: block;
+  margin: 20px auto;
+  border: 2px solid #444;
+  border-radius: 8px;
+  box-shadow: 0 0 8px #111;
+  transition: transform 0.3s ease, border-color 0.3s ease;
+}
+
+img:hover {
+  transform: scale(1.03);
+  border-color: #00bfff;
+}

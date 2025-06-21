@@ -7,7 +7,7 @@
   <h2>Here is the menu for my project:</h2>
   <ul>
     <li>
-      <a href="Unit24-Resume/README.md" target="_blank">
+      <a href="Unit24-Resume/index.html" target="_blank">
         My Resume
       </a>
     </li>

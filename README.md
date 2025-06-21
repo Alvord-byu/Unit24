@@ -1,7 +1,7 @@
   <h1>Comic-Con Anniversary Reflection</h1>
 
   <p>This July will mark a very important anniversary for me. This marks my tenth consecutive year attending the San Diego Comic-Con. I feel fortunate to have been able to attend so many with my family. This event has not only been fun but also helped shape me to who I am today.</p>
-  <p><a href="Comic-Con Culture">Below you can find out more about Comic-Con culture</a></p>
+  <p><a href="section1">Below you can find out more about Comic-Con culture</a></p>
 
   <h2>Favorite Comic-Con Experiences</h2>
 
@@ -65,7 +65,7 @@
   2024
   ![Image](https://github.com/user-attachments/assets/6550cbfc-bd2b-4f0a-9fcc-a9e50bf71105)
 
-  <h2>Comic-Con Culture</h2>
+  <h2><id="section1">Comic-Con Culture</h2>
 
   <p>Sometimes it brings in hundreds of thousands more than can even attend the conference and participate in what are called off-sites, which are typically free to go to and will give out free swag to visitors.</p>
 
